@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AgeCalculatorReact/static/css/main.899eeacf.css",
+    "main.js": "/AgeCalculatorReact/static/js/main.6df545ed.js",
+    "static/js/787.35fa1490.chunk.js": "/AgeCalculatorReact/static/js/787.35fa1490.chunk.js",
+    "static/media/service2.png": "/AgeCalculatorReact/static/media/service2.988e8636fe182919fe06.png",
+    "static/media/images7.png": "/AgeCalculatorReact/static/media/images7.de6261951e813900a1ed.png",
+    "static/media/images6.png": "/AgeCalculatorReact/static/media/images6.1fd8cc12cdfdf3f78a0f.png",
+    "static/media/images3.png": "/AgeCalculatorReact/static/media/images3.3a045b390451dfab188e.png",
+    "static/media/service1.png": "/AgeCalculatorReact/static/media/service1.270690424a8c3503ab61.png",
+    "static/media/images4.png": "/AgeCalculatorReact/static/media/images4.b10492cfba04cdb91df4.png",
+    "static/media/images2.png": "/AgeCalculatorReact/static/media/images2.24b83f2e7129f423be12.png",
+    "static/media/images5.png": "/AgeCalculatorReact/static/media/images5.dfc748f7a21a98bf12f5.png",
+    "static/media/images1.png": "/AgeCalculatorReact/static/media/images1.cede7dfde034b8529939.png",
+    "index.html": "/AgeCalculatorReact/index.html",
+    "main.899eeacf.css.map": "/AgeCalculatorReact/static/css/main.899eeacf.css.map",
+    "main.6df545ed.js.map": "/AgeCalculatorReact/static/js/main.6df545ed.js.map",
+    "787.35fa1490.chunk.js.map": "/AgeCalculatorReact/static/js/787.35fa1490.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.899eeacf.css",
+    "static/js/main.6df545ed.js"
+  ]
+}
