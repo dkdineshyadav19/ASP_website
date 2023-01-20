@@ -38,7 +38,7 @@ function App() {
             <div className="service1-image service-image-size "></div>
             <div className="service-text" id="employment">
               <div className="service-logo flex-class"  >
-                <img src="/work.png" alt="work logo" className="" />
+                <img src="./work.png" alt="work logo" className="" />
               </div>
               <div className="service-heading ">
                 <h1>Employment Registration</h1>
@@ -51,7 +51,7 @@ function App() {
             <div className="service2-image service-image-size"></div>
             <div className="service-text"  id="saksham">
               <div className="service-logo  flex-class">
-                <img src="/money.png" alt="money logo" className="" />
+                <img src="./money.png" alt="money logo" className="" />
               </div>
               <div className="service-heading">
                 <h1>Saksham Registration</h1>
@@ -75,7 +75,7 @@ function App() {
           </div>
           <a href="tel:9068136628">
             <div className="shadow-box flex-class" id="call" >
-              <img src="/phone.png" alt="" className="call-logo" />
+              <img src="./phone.png" alt="" className="call-logo" />
             </div>
           </a>
           <p className="fw-bold">
@@ -85,12 +85,12 @@ function App() {
           <div className="social d-flex">
             <a href="mailto:enjoylife.dheeraj@gmail.com">
               <div className="shadow-box-small flex-class">
-                <img src="/mail.png" alt="" className="social-logo" />
+                <img src="./mail.png" alt="" className="social-logo" />
               </div>
             </a>
             <a href="https://api.whatsapp.com/send?phone=9068136628&text=Hello%20!">
               <div className="shadow-box-small flex-class">
-                <img src="/whatsapp.png" alt="" className="social-logo" />
+                <img src="./whatsapp.png" alt="" className="social-logo" />
               </div>
             </a>
           </div>
